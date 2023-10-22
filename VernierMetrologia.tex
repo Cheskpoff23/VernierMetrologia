@@ -1,0 +1,141 @@
+\documentclass{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Define Article %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Using Packages %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{float}
+\usepackage[letterpaper,portrait]{geometry}
+\usepackage{graphicx}
+\usepackage{anysize}
+\usepackage{lipsum}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage[utf8]{inputenc}
+\usepackage{multirow}
+\usepackage{csquotes}
+\usepackage[spanish]{babel}
+\usepackage{apacite}
+\usepackage{multicol}
+\usepackage{parskip}
+\usepackage{setspace}
+\usepackage{empheq}
+\usepackage{mdframed}
+\usepackage{booktabs}
+\usepackage{lipsum}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{psfrag}
+\usepackage{pgfplots}
+\usepackage{bm}
+\usepackage{tocloft}
+\usepackage{lscape}
+\usepackage{adjustbox}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Other Settings
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% Page Setting %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\geometry{letterpaper, margin=2.54cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% Define some useful colors %%%%%%%%%%%%%%%%%%%%%%%%%%
+\definecolor{ocre}{RGB}{243,102,25}
+\definecolor{mygray}{RGB}{243,243,244}
+\definecolor{deepGreen}{RGB}{26,111,0}
+\definecolor{shallowGreen}{RGB}{235,255,255}
+\definecolor{deepBlue}{RGB}{61,124,222}
+\definecolor{shallowBlue}{RGB}{235,249,255}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% Define an orangebox command %%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand\orangebox[1]{\fcolorbox{ocre}{mygray}{\hspace{1em}#1\hspace{1em}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% English Environments %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newtheoremstyle{mytheoremstyle}{3pt}{3pt}{\normalfont}{0cm}{\rmfamily\bfseries}{}{1em}{{\color{black}\thmname{#1}~\thmnumber{#2}}\thmnote{\,--\,#3}}
+\newtheoremstyle{myproblemstyle}{3pt}{3pt}{\normalfont}{0cm}{\rmfamily\bfseries}{}{1em}{{\color{black}\thmname{#1}~\thmnumber{#2}}\thmnote{\,--\,#3}}
+\theoremstyle{mytheoremstyle}
+\newmdtheoremenv[linewidth=1pt,backgroundcolor=shallowGreen,linecolor=deepGreen,leftmargin=0pt,innerleftmargin=20pt,innerrightmargin=20pt,]{theorem}{Theorem}[section]
+\theoremstyle{mytheoremstyle}
+\newmdtheoremenv[linewidth=1pt,backgroundcolor=shallowBlue,linecolor=deepBlue,leftmargin=0pt,innerleftmargin=20pt,innerrightmargin=20pt,]{definition}{Definition}[section]
+\theoremstyle{myproblemstyle}
+\newmdtheoremenv[linecolor=black,leftmargin=0pt,innerleftmargin=10pt,innerrightmargin=10pt,]{problem}{Problem}[section]
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Plotting Settings %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepgfplotslibrary{colorbrewer}
+\pgfplotsset{width=8cm,compat=1.9}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Title & Author %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\author{Gustavo Vergara}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\pgfplotsset{compat=1.18}
+\setstretch{2}
+
+\begin{titlepage}
+	\centering
+	\vspace{2.5cm}
+	{\scshape \Large Elaboración de los diagramas del modelo de dominio del proyecto - GA2-220501093-AA2-EV01 \par}
+	\vspace{5cm}
+	\textbf\large\scshape{\par}
+	\vspace{0.5cm}
+
+	{\Large Vergara Pareja Gustavo\par}
+	\vspace{5cm}
+	{\scshape\Large Jovanna Herazo\par}
+	\vspace{0.3cm}
+	{\scshape\Large Tecnología en Análisis y Desarrollo de Software \par}
+	\vspace{0.3cm}
+	{\scshape\Large SENA - Centro Agropecuario Regional Cauca\par}
+	\vspace{0.3cm}
+	{\Large \today \par}
+\end{titlepage}
+\tableofcontents
+\newpage
+
+	\large \textbf{ACTIVIDAD A SOLUCIONAR}\\
+	\vspace{0.1cm}
+	\section*{TALLER INSTRUMENTOS - METROLOGÍA Y CONTROL DE CALIDAD}
+\section{¿Qué es el calibrador Vernier o pie de rey?}
+El vernier es una escala auxiliar que se desliza a lo largo de una escala principal para permitir en ésta lecturas fraccionales exactas de la mínima división. 
+Para lograr lo anterior, una escala vernier está graduada en un número de divisiones iguales en la misma longitud que n-1 divisiones de la escala principal; ambas escalas están marcadas en la misma dirección. Una fracción de 1/n de la mínima división de la escala principal puede leerse. Fué elaborado para satisfacer la necesidad 
+ de un instru­mento de lectura directa que pudiera brindar una medida fácilmente, en una sola 
+ operación. El calibrador típico puede tomar tres tipos de mediciones: exteriores, 
+ interiores y profundidades, pero algunos además pueden realizar medición de peldaño. 
+	\begin{itemize}
+		\item ¿Cuántos modelos de vernier existen?
+		\item ¿Para qué sirve cada uno?
+		\item ¿Cuáles son sus partes?
+		\item ¿Cómo se lee la medida en el instrumento?
+	\end{itemize}
+	\section{¿Qué es el micrómetro?}
+	\begin{itemize}
+		\item ¿Cuáles son sus partes?
+	
+		\item¿Cómo se lee la medida en el instrumento?
+		
+		\item¿Qué es el micrómetro?
+	
+		\item¿Cuántos modelos de micrómetros existen?
+		
+		\item¿Para qué sirve cada uno?
+	
+		\item¿Cuáles son sus partes?
+	\end{itemize}
+
+\newpage
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=1\textwidth]{partes_vernier.png}
+	\caption{Diagrama de paquetes}
+	\label{fig:imagen2}
+\end{figure}
+Es un instrumento de medición que se utiliza para medir longitudes, diámetros, profundidades
+ y espesores con una precisión de hasta 0,02 mm. Fué elaborado para satisfacer la necesidad 
+ de un instru­mento de lectura directa que pudiera brindar una medida fácilmente, en una sola 
+ operación. El calibrador típico puede tomar tres tipos de mediciones: exteriores, 
+ interiores y profundidades, pero algunos además pueden realizar medición de peldaño. 
+
+\end{document}
