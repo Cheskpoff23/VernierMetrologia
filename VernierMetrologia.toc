@@ -1,3 +1,0 @@
-\babel@toc {spanish}{}\relax 
-\contentsline {section}{\numberline {1}¿Qué es el calibrador Vernier o pie de rey?}{2}{}%
-\contentsline {section}{\numberline {2}¿Qué es el micrómetro?}{3}{}%
