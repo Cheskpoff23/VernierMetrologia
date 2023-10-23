@@ -1,5 +1,13 @@
 # Fdb version 4
-["pdflatex"] 1698031835 "c:/Users/gusta/OneDrive - SENA/Documents/Copia Seguridad U/Semestre6/Metrologia/VernierMetrologia/VernierMetrologia.tex" "VernierMetrologia.pdf" "VernierMetrologia" 1698031838 0
+["bibtex VernierMetrologia"] 1698032684 "VernierMetrologia.aux" "VernierMetrologia.bbl" "VernierMetrologia" 1698032706 0
+  "./instrumentos.bib" 1698032545 625 571d050b4fead17d886a3d1adc9dff11 ""
+  "C:/Users/gusta/AppData/Local/Programs/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 9d7b79dbf9d91133318126032cff8c27 ""
+  "VernierMetrologia.aux" 1698032705 3395 b0027e87751a140108d508503fcc745c "pdflatex"
+  (generated)
+  "VernierMetrologia.bbl"
+  "VernierMetrologia.blg"
+  (rewritten before read)
+["pdflatex"] 1698032703 "c:/Users/gusta/OneDrive - SENA/Documents/Copia Seguridad U/Semestre6/Metrologia/VernierMetrologia/VernierMetrologia.tex" "VernierMetrologia.pdf" "VernierMetrologia" 1698032706 0
   "C:/Users/gusta/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1697748803 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/gusta/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1695663717 11548 27e570bf05ba4597b84c165f7e1526b9 ""
   "C:/Users/gusta/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1695120301 24142036 e4ea9d5291b0248cfcdf345065ad18be ""
@@ -8,9 +16,11 @@
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmcsc10.tfm" 1136765053 1300 63a6111ee6274895728663cf4b4e7e81 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247596667 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1693303475 147701 65923c3ddeaf8cd564682e9b3a5028d2 ""
@@ -204,9 +214,10 @@
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1650051284 2245 c8a4088d07cffc2e5207730c738edd76 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1650051284 20785 71a3d72ab517959a6979c27e6176bec1 ""
-  "VernierMetrologia.aux" 1698031837 2268 1490cfda6b043b5cf597d074801f4a94 "pdflatex"
-  "VernierMetrologia.tex" 1698031834 13974 a9d5aeaa63a7dba5a00d7b595e85ded5 ""
-  "c:/Users/gusta/OneDrive - SENA/Documents/Copia Seguridad U/Semestre6/Metrologia/VernierMetrologia/VernierMetrologia.tex" 1698031834 13974 a9d5aeaa63a7dba5a00d7b595e85ded5 ""
+  "VernierMetrologia.aux" 1698032705 3395 b0027e87751a140108d508503fcc745c "pdflatex"
+  "VernierMetrologia.bbl" 1698032685 1565 f5098819f134525ebae693fc16e10bc6 "bibtex VernierMetrologia"
+  "VernierMetrologia.tex" 1698032702 14028 870c83b3fe05db29f85e2d0444b52e09 ""
+  "c:/Users/gusta/OneDrive - SENA/Documents/Copia Seguridad U/Semestre6/Metrologia/VernierMetrologia/VernierMetrologia.tex" 1698032702 14028 870c83b3fe05db29f85e2d0444b52e09 ""
   "digi.jpg" 1698024003 67254 c68351723e0f75b6dae5b91015118d27 ""
   "ext.png" 1698024508 26404 3407d9982f32780b13afa0995322e4dd ""
   "int.png" 1698024717 47773 e19b850105360cee3d928a6844eabb64 ""

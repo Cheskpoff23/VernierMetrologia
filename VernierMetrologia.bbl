@@ -1,0 +1,53 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+{G{\'o}mez Morales, T., {\'A}gueda Casado, E., Garc{\'\i}a Jim{\'e}nez, J. L.,
+  \& Mart{\'\i}n Navarro, J.}%
+}{%
+{G{\'o}mez Morales, T., {\'A}gueda Casado, E., Garc{\'\i}a Jim{\'e}nez, J. L.,
+  \& Mart{\'\i}n Navarro, J.}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+Gomez_Morales_T_Agueda_Casado_E_Garcia_Jimenez_J_L_Martin_Navarro_J_undated-gv}
+\APACinsertmetastar {%
+Gomez_Morales_T_Agueda_Casado_E_Garcia_Jimenez_J_L_Martin_Navarro_J_undated-gv}%
+\begin{APACrefauthors}%
+{G{\'o}mez Morales, T., {\'A}gueda Casado, E., Garc{\'\i}a Jim{\'e}nez, J. L.,
+  \& Mart{\'\i}n Navarro, J.}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{{\protect \bibnodate {}}}.
+\newblock
+\APACrefbtitle {Carrocer{\'\i}a. Elementos Estructurales del Veh{\'\i}culo}
+  {Carrocer{\'\i}a. elementos estructurales del veh{\'\i}culo}.
+\newblock
+\APACaddressPublisher{La Villa y Corte de Madrid, Espa{\~n}a}{Paraninfo Cengage
+  Learning}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gonz{\'a}lez%
+\ \BBA {} V{\'a}zquez%
+}{%
+Gonz{\'a}lez%
+\ \BBA {} V{\'a}zquez%
+}{%
+{\protect \APACyear {1995}}%
+}]{%
+Gonzalez1995-fl}
+\APACinsertmetastar {%
+Gonzalez1995-fl}%
+\begin{APACrefauthors}%
+Gonz{\'a}lez, C\BPBI G.%
+\BCBT {}\ \BBA {} V{\'a}zquez, J\BPBI R\BPBI Z.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1995}.
+\newblock
+\APACrefbtitle {Metrolog{\'\i}a} {Metrolog{\'\i}a}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
