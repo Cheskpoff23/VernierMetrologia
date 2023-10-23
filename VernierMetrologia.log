@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.19)  22 OCT 2023 20:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.19)  22 OCT 2023 22:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -851,7 +851,41 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (VernierMetrologia.aux)
+ (VernierMetrologia.aux
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+)
 \openout1 = `VernierMetrologia.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
@@ -939,32 +973,91 @@ Non-PDF special ignored!
 <special> header=psfrag.pro
 
 {C:/Users/gusta/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-No file VernierMetrologia.toc.
-\tf@toc=\write5
-\openout5 = `VernierMetrologia.toc'.
-
-[1]
-<lectura_vernier.png, id=14, 266.49562pt x 106.89937pt>
+<lectura_vernier.png, id=9, 266.49562pt x 106.89937pt>
 File: lectura_vernier.png Graphic file (type png)
 <use lectura_vernier.png>
-Package pdftex.def Info: lectura_vernier.png  used on input line 113.
+Package pdftex.def Info: lectura_vernier.png  used on input line 110.
 (pdftex.def)             Requested size: 281.8561pt x 113.07137pt.
- [2]
-<lectura2.png, id=20, 270.25969pt x 102.3825pt>
+<lectura2.png, id=11, 270.25969pt x 102.3825pt>
 File: lectura2.png Graphic file (type png)
 <use lectura2.png>
-Package pdftex.def Info: lectura2.png  used on input line 125.
+Package pdftex.def Info: lectura2.png  used on input line 122.
 (pdftex.def)             Requested size: 281.8561pt x 106.77835pt.
-<vpulg.png, id=21, 395.22656pt x 67.75313pt>
+<vpulg.png, id=12, 395.22656pt x 67.75313pt>
 File: vpulg.png Graphic file (type png)
 <use vpulg.png>
-Package pdftex.def Info: vpulg.png  used on input line 137.
+Package pdftex.def Info: vpulg.png  used on input line 134.
 (pdftex.def)             Requested size: 281.8561pt x 48.31801pt.
-<ss.png, id=22, 192.72pt x 62.634pt>
+ [1 <./lectura_vernier.png> <./lectura2.png>]
+<ss.png, id=20, 192.72pt x 62.634pt>
 File: ss.png Graphic file (type png)
 <use ss.png>
-Package pdftex.def Info: ss.png  used on input line 150.
+Package pdftex.def Info: ss.png  used on input line 147.
 (pdftex.def)             Requested size: 281.8561pt x 91.6035pt.
- [3 <./lectura_vernier.png> <./lectura2.png> <./vpulg.png>]
-!pdfTeX error: pdflatex (file ./digi.png): libpng: internal error
- ==> Fatal error occurred, no output PDF file produced!
+<digi.jpg, id=21, 1505.625pt x 1182.4175pt>
+File: digi.jpg Graphic file (type jpg)
+<use digi.jpg>
+Package pdftex.def Info: digi.jpg  used on input line 158.
+(pdftex.def)             Requested size: 187.89928pt x 147.54922pt.
+ [2 <./vpulg.png> <./ss.png> <./digi.jpg>]
+<partes_vernier.png, id=26, 767.11594pt x 356.0803pt>
+File: partes_vernier.png Graphic file (type png)
+<use partes_vernier.png>
+Package pdftex.def Info: partes_vernier.png  used on input line 169.
+(pdftex.def)             Requested size: 469.75539pt x 218.05627pt.
+<partes_vernier.jpeg, id=27, 475.7775pt x 483.8075pt>
+File: partes_vernier.jpeg Graphic file (type jpg)
+<use partes_vernier.jpeg>
+Package pdftex.def Info: partes_vernier.jpeg  used on input line 175.
+(pdftex.def)             Requested size: 328.82733pt x 334.3886pt.
+ [3 <./partes_vernier.png> <./partes_vernier.jpeg>]
+<ext.png, id=32, 148.30406pt x 231.11343pt>
+File: ext.png Graphic file (type png)
+<use ext.png>
+Package pdftex.def Info: ext.png  used on input line 191.
+(pdftex.def)             Requested size: 93.94963pt x 146.41333pt.
+<int.png, id=33, 176.91093pt x 333.49594pt>
+File: int.png Graphic file (type png)
+<use int.png>
+Package pdftex.def Info: int.png  used on input line 206.
+(pdftex.def)             Requested size: 131.53093pt x 247.95354pt.
+ [4 <./ext.png>]
+<prof.png, id=39, 104.64093pt x 164.11313pt>
+File: prof.png Graphic file (type png)
+<use prof.png>
+Package pdftex.def Info: prof.png  used on input line 218.
+(pdftex.def)             Requested size: 131.53093pt x 206.2853pt.
+ [5 <./int.png> <./prof.png>] [6] [7]
+<micrometro.png, id=52, 840.89156pt x 368.1253pt>
+File: micrometro.png Graphic file (type png)
+<use micrometro.png>
+Package pdftex.def Info: micrometro.png  used on input line 285.
+(pdftex.def)             Requested size: 328.82733pt x 143.95587pt.
+ [8 <./micrometro.png>] (VernierMetrologia.aux
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 32967 strings out of 475248
+ 808446 string characters out of 5757813
+ 1925801 words of memory out of 5000000
+ 53928 multiletter control sequences out of 15000+600000
+ 560226 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,7n,103p,828b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\gusta\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on VernierMetrologia.pdf (9 pages, 1103172 bytes).
+PDF statistics:
+ 75 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 68 words of extra memory for PDF output out of 10000 (max. 10000000)
+
