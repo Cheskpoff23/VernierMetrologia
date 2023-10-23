@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex VernierMetrologia"] 1698032854 "VernierMetrologia.aux" "VernierMetrologia.bbl" "VernierMetrologia" 1698032858 0
+["bibtex VernierMetrologia"] 1698032920 "VernierMetrologia.aux" "VernierMetrologia.bbl" "VernierMetrologia" 1698032923 0
   "./instrumentos.bib" 1698032850 645 534a18d3d01bd0e61e90da16ff5be8f2 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 9d7b79dbf9d91133318126032cff8c27 ""
-  "VernierMetrologia.aux" 1698032857 3373 706ad528a872b5b4abf2055b9f8e685a "pdflatex"
+  "VernierMetrologia.aux" 1698032922 3374 e2be1f479e6989552641fa6376c5855c "pdflatex"
   (generated)
   "VernierMetrologia.bbl"
   "VernierMetrologia.blg"
   (rewritten before read)
-["pdflatex"] 1698032855 "c:/Users/gusta/OneDrive - SENA/Documents/Copia Seguridad U/Semestre6/Metrologia/VernierMetrologia/VernierMetrologia.tex" "VernierMetrologia.pdf" "VernierMetrologia" 1698032858 0
+["pdflatex"] 1698032920 "c:/Users/gusta/OneDrive - SENA/Documents/Copia Seguridad U/Semestre6/Metrologia/VernierMetrologia/VernierMetrologia.tex" "VernierMetrologia.pdf" "VernierMetrologia" 1698032923 0
   "C:/Users/gusta/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1697748803 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/gusta/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1695663717 11548 27e570bf05ba4597b84c165f7e1526b9 ""
   "C:/Users/gusta/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1695120301 24142036 e4ea9d5291b0248cfcdf345065ad18be ""
@@ -214,10 +214,10 @@
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1650051284 2245 c8a4088d07cffc2e5207730c738edd76 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1650051284 20785 71a3d72ab517959a6979c27e6176bec1 ""
-  "VernierMetrologia.aux" 1698032857 3373 706ad528a872b5b4abf2055b9f8e685a "pdflatex"
-  "VernierMetrologia.bbl" 1698032855 1525 df1ca1a6497fe588ecaf87947419601d "bibtex VernierMetrologia"
-  "VernierMetrologia.tex" 1698032702 14028 870c83b3fe05db29f85e2d0444b52e09 ""
-  "c:/Users/gusta/OneDrive - SENA/Documents/Copia Seguridad U/Semestre6/Metrologia/VernierMetrologia/VernierMetrologia.tex" 1698032702 14028 870c83b3fe05db29f85e2d0444b52e09 ""
+  "VernierMetrologia.aux" 1698032922 3374 e2be1f479e6989552641fa6376c5855c "pdflatex"
+  "VernierMetrologia.bbl" 1698032920 1525 df1ca1a6497fe588ecaf87947419601d "bibtex VernierMetrologia"
+  "VernierMetrologia.tex" 1698032914 14036 013904ffe98ae7c76765823c5941950e ""
+  "c:/Users/gusta/OneDrive - SENA/Documents/Copia Seguridad U/Semestre6/Metrologia/VernierMetrologia/VernierMetrologia.tex" 1698032914 14036 013904ffe98ae7c76765823c5941950e ""
   "digi.jpg" 1698024003 67254 c68351723e0f75b6dae5b91015118d27 ""
   "ext.png" 1698024508 26404 3407d9982f32780b13afa0995322e4dd ""
   "int.png" 1698024717 47773 e19b850105360cee3d928a6844eabb64 ""
